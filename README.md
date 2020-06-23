@@ -19,11 +19,8 @@ $ touch .Xresources
 and paste the code bellow:
 
 XTerm*termName: xterm-256color
-
 XTerm*vt100.locale: true
-
 XTerm*vt100.saveLinew: 4096
-
 XTerm*vt100.renderFont: true
 
 XTerm*vt100.font: 7x13
