@@ -4,9 +4,11 @@ Hello guys! this is my first time on github, i hope everybody like this work
 Hey Morhetz, thanks to share this colorscheme for vim, this colorscheme inspired me to made this!
 
 gruvbox vim colorscheme of Morhetz:
+
 https://vimawesome.com/plugin/gruvbox
 
 Me: fabio carneiro <fabiocarneiro@slackjeff.com.br>
+
 My youtube Channel: youtube.com/fabiocarneiro  ( Audio is in Portuguese ).
 
 Installation
