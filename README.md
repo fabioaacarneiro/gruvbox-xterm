@@ -73,7 +73,7 @@ XTerm*color15:    #ebdbb2
 
 3) Save then run in Terminal Emulador the code bellow
 
-$ rxdb .Xresources
+$ xrdb .Xresources
 
 4) ok, now re-open Xterm Terminal Emulator, and be happy xD
 
