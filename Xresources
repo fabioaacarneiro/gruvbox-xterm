@@ -1,0 +1,25 @@
+xterm*termName: xterm-256color
+xterm*vt100.locale: true
+xterm*vt100.saveLinew: 4096
+xterm*vt100.renderFont: true
+xterm*vt100.font: 7x13
+xterm*vt100.selectToClipboard: true
+xterm*vt100.translations: #override \ Shift Ctrl C: copy-selection(CLIPBOARD) \n\ Shift Ctrl V: insert-selection(CLIPBOARD)
+xterm*background: #262626
+xterm*boreground: #ebdbb2
+xterm*color0: #262628
+xterm*color8: #928374
+xterm*color1: #CC241D
+xterm*color9: #fb4934
+xterm*color2: #98971a
+xterm*color10: #b8bb26
+xterm*color3: #FF8F15
+xterm*color11: #FFAF00
+xterm*color4: #458588
+xterm*color12: #83a598
+xterm*color5: #b16286
+xterm*color13: #d3869b
+xterm*color6: #689d6a
+xterm*color14: #8ec07c
+xterm*color7: #a89984
+xterm*color15: #ebdbb2
