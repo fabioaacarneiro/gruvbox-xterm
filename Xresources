@@ -6,7 +6,7 @@ xterm*vt100.font: 7x13
 xterm*vt100.selectToClipboard: true
 xterm*vt100.translations: #override \ Shift Ctrl C: copy-selection(CLIPBOARD) \n\ Shift Ctrl V: insert-selection(CLIPBOARD)
 xterm*background: #262626
-xterm*boreground: #ebdbb2
+xterm*foreground: #ebdbb2
 xterm*color0: #262628
 xterm*color8: #928374
 xterm*color1: #CC241D
