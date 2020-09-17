@@ -1,7 +1,7 @@
 xterm*termName: xterm-256color
 xterm*vt100.locale: true
 xterm*vt100.saveLinew: 4096
-xterm*vt100.renderFont: true
+xterm*vt100.faceName: Liberation Mono:size=14:antialias=true
 xterm*vt100.font: 7x13
 xterm*vt100.selectToClipboard: true
 xterm*vt100.translations: #override \ Shift Ctrl C: copy-selection(CLIPBOARD) \n\ Shift Ctrl V: insert-selection(CLIPBOARD)
